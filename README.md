@@ -16,13 +16,13 @@
 
 
 
-### Installed Dependencies :card_index_dividers:
+### Installed Dependencies :package:
 
 
 
 
 
-### Methods, Classes and other Object oriented programming constructs used
+### Methods, Classes and other Object oriented programming constructs used :package:
 
 
 
