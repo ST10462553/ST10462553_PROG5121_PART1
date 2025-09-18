@@ -9,6 +9,6 @@
 - **Final program results**
 ## PROG5121 POE PART 1 MAIN OBJECTIVES :memo:
 
-1. Create an program with login and registration features
+1. Create a program with login and registration features
 2. The login features must enable users to accept user inputs to capture username, password and South african cell number
-3. Add conditions to accept username, password and cellphone number in a certain formatting e.g, username
+3. Add conditions to accept *username, password and cellphone number* in a certain formatting e.g, the accepted format of a username is taken only when a user meets the condition for the **username to contain an underscore and is no longer than 5 characters long**.
