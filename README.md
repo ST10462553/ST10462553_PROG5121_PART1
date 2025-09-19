@@ -32,7 +32,11 @@ The necessary dependencies and necessities needed to run the program included:
 <img width="600" height="300" alt="java methods" src="https://github.com/user-attachments/assets/9ab338b0-89bb-4079-8e0d-b395cda54fc6" />
 
 
-
+> [!NOTE]
+> These are used to store registration states:
+> private String registeredUsername;
+> private String registeredPassword;
+> private String registeredCell;
 
 
 
