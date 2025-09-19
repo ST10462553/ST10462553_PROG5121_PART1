@@ -21,6 +21,7 @@ The necessary dependencies and necessities needed to run the program included:
 - To create the maven project we had to select the maven-archetype-quickstart.
 - Then set the groupId as za.ac.iie.prog5121 and the artifactId as quickchat, resulting in the package namely za.ac.iie.prog5121.quickchat.
 -  The project structure includes pom.xml - for dependencies and property management, src/main/java - for the main.java file which contains a main class enabling us to run the entire project and the login.java file to write the project's methods and classes for the login and registration features in the app.
+-  We had to edit pom.xml and replace junit 4 with junit-jupiter (JUnit 5) as well as adding a maven surefire plugin to ensure that Maven uses jUnit 5 whenever the project runs.
 
 
 
