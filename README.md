@@ -40,8 +40,9 @@ The necessary dependencies and necessities needed to run the program included:
 
 
 
-### Decisions used
+### Decision return statements used:
 
+<img width="600" height="300" alt="decisions" src="https://github.com/user-attachments/assets/45890643-67e8-4976-be44-21b8eff18365" />
 
 
 ### Expected user Inputs and outputs :shipit:
