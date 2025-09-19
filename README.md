@@ -46,7 +46,13 @@ The necessary dependencies and necessities needed to run the program included:
 
 
 ### Expected user Inputs and outputs :shipit:
-
+- first name
+- last name
+- user name
+- password
+- cell number
+- registration failed messages(if user inputs the password, cell number or user name incorrectly)
+- login successful messages(when user enters details accordingly)
 
 
 
