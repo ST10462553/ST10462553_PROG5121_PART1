@@ -68,3 +68,15 @@ The necessary dependencies and necessities needed to run the program included:
 
 
 ### Reference List
+
+Apache Software Foundation (2025) Apache Maven [Computer program]. Available at: https://maven.apache.org/
+ (Accessed: 15 September 2025).
+
+JUnit (2025) JUnit 5 [Computer program]. Available at: https://junit.org/junit5/
+ (Accessed: 15 September 2025).
+
+OpenAI (2025) ChatGPT (GPT-5) [Computer program]. Available at: https://chat.openai.com/
+ (Accessed: 15 September 2025).
+
+Oracle (2025) Java SE Development Kit (JDK) [Computer program]. Available at: https://www.oracle.com/java/
+ (Accessed: 15 September 2025).
