@@ -29,6 +29,7 @@ The necessary dependencies and necessities needed to run the program included:
 
 ### Methods, Classes and other Object oriented programming constructs used :package:
 
+<img width="677" height="359" alt="java methods" src="https://github.com/user-attachments/assets/9ab338b0-89bb-4079-8e0d-b395cda54fc6" />
 
 
 
