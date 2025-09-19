@@ -36,7 +36,7 @@ The necessary dependencies and necessities needed to run the program included:
 > These are used to store registration states:
 > private String registeredUsername;
 > private String registeredPassword;
-> private String registeredCell;
+> private String registeredCell. More methods were created to use regex patterns to determine the factors necessary in inputting your username and password,etc - these methods utilized regex patterns to allow special characters, digits, capital letters and the length of the username and passwords.
 
 
 
