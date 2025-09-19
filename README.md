@@ -63,6 +63,7 @@ The necessary dependencies and necessities needed to run the program included:
 
 ### Final program results
 
+<img width="1467" height="658" alt="conditions met" src="https://github.com/user-attachments/assets/6891745c-58b7-4cb8-bbe6-2ca5ccefbf29" />
 
 
 ### Reference List
