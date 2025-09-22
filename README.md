@@ -80,3 +80,5 @@ OpenAI (2025) ChatGPT (GPT-5) [Computer program]. Available at: https://chat.ope
 
 Oracle (2025) Java SE Development Kit (JDK) [Computer program]. Available at: https://www.oracle.com/java/
  (Accessed: 15 September 2025).
+
+W3Schools (2025) Java Tutorial. Available at: https://www.w3schools.com/java/ (Accessed: 15 September 2025).
